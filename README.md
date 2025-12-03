@@ -269,7 +269,7 @@ Ou altere no compose: `"3307:3306"`
 
 Possível causa: banco ainda não está pronto.
 
-###Solução:
+### Solução:
 Aguarde status `healthy`.
 
 ## Access Denied
